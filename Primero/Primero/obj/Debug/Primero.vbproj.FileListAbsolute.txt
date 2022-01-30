@@ -1,0 +1,13 @@
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.Form1.resources
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.Resources.resources
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.vbproj.GenerateResource.cache
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Primero\Primero\bin\Debug\Primero.exe.config
+C:\Users\Sergio\Documents\Primero\Primero\bin\Debug\Primero.exe
+C:\Users\Sergio\Documents\Primero\Primero\bin\Debug\Primero.pdb
+C:\Users\Sergio\Documents\Primero\Primero\bin\Debug\Primero.xml
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.exe
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.xml
+C:\Users\Sergio\Documents\Primero\Primero\obj\Debug\Primero.pdb
